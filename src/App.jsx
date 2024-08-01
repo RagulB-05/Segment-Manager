@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import PopUp from "./assets/PopUp";
+import PopUp from "./PopUp";
 import React from "react";
 
 function App() {
